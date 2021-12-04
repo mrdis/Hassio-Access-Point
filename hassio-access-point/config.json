@@ -1,10 +1,10 @@
 {
-  "name": "Hass.io Access Point",
+  "name": "Hass.io Access Point - mrdis dev",
   "version": "0.4.1",
-  "slug": "hassio-access-point",
+  "slug": "hassio-access-point-mrdis-dev",
   "description": "Create a WiFi access point to directly connect devices to Home Assistant",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/mattlongman/hassio-access-point",
+  "url": "https://github.com/mrdis/hassio-access-point",
   "startup": "system",
   "boot": "auto",
   "host_network": true,
