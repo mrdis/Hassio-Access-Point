@@ -1,5 +1,5 @@
 {
-  "name": "Hass.io Access Point",
-  "url": "https://github.com/mattlongman/hassio-addons-directory",
-  "maintainer": "Matt Longman <git@mattlongman.com>"
+  "name": "Hass.io Access Point - mrdis dev",
+  "url": "https://github.com/mrdis/Hassio-Access-Point",
+  "maintainer": "mrdis <git@mrdis.com>"
 }
